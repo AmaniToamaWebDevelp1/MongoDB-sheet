@@ -35,5 +35,5 @@ The MongoDB cheat sheet PDF includes sections on:
 •Data Modeling Best Practices
 
 
-#License
+# License
 This project is licensed under the GPU License - see the LICENSE file for details.
