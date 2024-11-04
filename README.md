@@ -23,7 +23,7 @@ curl -O https://github.com/AmaniToamaWebDevelp1/MongoDB-sheet/blob/main/MongoDB%
 ```
 Alternatively, you can download the PDF directly here.
 
-##Cheat Sheet Contents
+## Cheat Sheet Contents
 The MongoDB cheat sheet PDF includes sections on:
 
 •Basic MongoDB Commands
