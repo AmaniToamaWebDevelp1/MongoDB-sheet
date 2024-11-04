@@ -19,11 +19,11 @@ cd mongodb-cheat-sheet
 3. Download the PDF:
 
 ```bash
-curl -O https://path-to-your-file.com/mongodb-cheat-sheet.pdf
+curl -O https://github.com/AmaniToamaWebDevelp1/MongoDB-sheet/blob/main/MongoDB%20cheatsheet.pdf
 ```
 Alternatively, you can download the PDF directly here.
 
-#Cheat Sheet Contents
+##Cheat Sheet Contents
 The MongoDB cheat sheet PDF includes sections on:
 
 •Basic MongoDB Commands
