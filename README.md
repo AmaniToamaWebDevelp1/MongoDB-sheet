@@ -36,4 +36,4 @@ The MongoDB cheat sheet PDF includes sections on:
 
 
 # License
-This project is licensed under the GPU License - see the LICENSE file for details.
+This project is licensed under the GPL-3.0 license - see the LICENSE file for details.
